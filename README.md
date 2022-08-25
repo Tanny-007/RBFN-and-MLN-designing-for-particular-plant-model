@@ -1,1 +1,1 @@
-# RBFN-and-MLN-designing-for-for-particular-plant-particular-
+# RBFN and MLN designing for particular plant model
